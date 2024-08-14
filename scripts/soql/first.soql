@@ -1,0 +1,1 @@
+select id, name, first_name__c, salary__c,country__c from employee__c ORDER BY salary__c desc LIMIT 1
